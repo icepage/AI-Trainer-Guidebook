@@ -38,6 +38,9 @@
 
 [查询地址2](https://zscx.osta.org.cn/)
 
+8、国家职业资格目录(这里查到的证书可以做个税减免，可惜人工智能训练师无法个税减免，这里只做记录)
+
+[国家职业资格目录](https://www.mohrss.gov.cn/SYrlzyhshbzb/SYgundongxinwen/201710/t20171024_280005.html)
 ## 🚧 3. 考试经验与攻略
 
 1、🔥不找机构！自己报人工智能训练师全攻略
@@ -54,3 +57,6 @@
 1、人工智能训练师高级实操题个人笔记(考前背诵)
 
 [https://mp.weixin.qq.com/s/MfWI3nWSQjYw_q-OFu3c8Q](https://mp.weixin.qq.com/s/MfWI3nWSQjYw_q-OFu3c8Q)
+
+
+
