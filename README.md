@@ -14,7 +14,7 @@
 
 2、哪些证书能申请补贴？
 
-广东省财政厅关于印发《广东省职业技能培训补贴（指导）标准目录（2025年版）》的通知](https://hrss.gd.gov.cn/ztzl/yshj/jycy/content/post_4701572.html)
+[广东省财政厅关于印发《广东省职业技能培训补贴（指导）标准目录（2025年版）》的通知](https://hrss.gd.gov.cn/ztzl/yshj/jycy/content/post_4701572.html)
 
 3、 稀缺目录(最高可加30%的补贴)有哪些？
 
