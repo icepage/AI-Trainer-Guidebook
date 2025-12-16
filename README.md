@@ -59,4 +59,17 @@
 [https://mp.weixin.qq.com/s/MfWI3nWSQjYw_q-OFu3c8Q](https://mp.weixin.qq.com/s/MfWI3nWSQjYw_q-OFu3c8Q)
 
 
+## 📚 5. 素材下载
+
+1、人工智能训练师高级教材题库下载  
+微信扫码，关注公众号回复【**ai**】下载
+<p align="left">
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://www.icepage.top/wechat/wpp.png" width="300">
+    </td>
+  </tr>
+</table>
+</p>
 
